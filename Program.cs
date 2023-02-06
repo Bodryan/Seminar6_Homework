@@ -73,7 +73,7 @@ namespace Seminar6_Homework
 
             }
 
-            // Zadacha43();
+            Zadacha43();
             
 
 
